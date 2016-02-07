@@ -4,7 +4,7 @@ Check your project for common sources of contributor friction.
 
 ### What to Use Flint for and When to Use It?
 
-Since it is so important, GitHub founder [Tom Preston-Werner][mojombo]
+GitHub founder [Tom Preston-Werner][mojombo]
 suggests you [should write the README before you write a single line of
 code][RDD]. A well crafted README includes:
 
@@ -12,10 +12,10 @@ code][RDD]. A well crafted README includes:
 - The philosophy behind your project.
 - Basic usage and getting started instructions.
 - A list of comparable projects that inspired yours or would be suitable
-  alternatives.
- 
-Use Flint to help ensure that each new project you create will be structured
-in contributor friendly way. 
+  alternatives.  
+
+In addition to the README, basic files such as the LICENSE and Bootstrap scripts to support simple installation of the project. Use Flint to help ensure that each new project you create will be contain contribution files and is structured 
+in a contributor friendly way by checking your project's folder for files needed for collaboration. 
 
 ### Install
 
